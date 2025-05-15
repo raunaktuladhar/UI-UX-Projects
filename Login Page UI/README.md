@@ -36,7 +36,7 @@ The login screen was designed to practice minimal form UI with proper hierarchy 
 
 ## 🖼 Screenshot
 
-### Demo 
+### Demo Screen
 ![Demo](./screens/Demo.png)
 
 ### Final Product
